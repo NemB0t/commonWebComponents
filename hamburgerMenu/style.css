@@ -75,7 +75,11 @@ body{
     display: none;
     flex-direction: column;
 }
+.menubtn{
+    cursor: pointer;
+}
 .closebtn{
     align-self: flex-end;
     padding-right: 40px;
+    cursor: pointer;
 }
